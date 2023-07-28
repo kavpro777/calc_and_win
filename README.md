@@ -20,6 +20,8 @@ https://foodgramtest.viewdns.net/
 https://foodgramtest.viewdns.net/admin/login/
 Username: admin
 Password: 1234
+Username: alex@ya.ru
+Password: Admin12345
 ```
 Пользователь:
 ```
